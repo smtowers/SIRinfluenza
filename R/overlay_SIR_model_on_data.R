@@ -32,7 +32,7 @@ overlay_SIR_model_on_data = function(R0){
   ########################################################################
   # now load the data and plot it
   ########################################################################
-  load("SIRinfluenza/data/midwest_flu_2008.rda")
+  #load("SIRinfluenza/data/midwest_flu_2008.rda")
 
   ########################################################################
   # find the time at which the weekly incidence was at a maximum
